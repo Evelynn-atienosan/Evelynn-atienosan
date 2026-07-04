@@ -5,7 +5,7 @@ Hi, I'm **Evelynn Atieno** — a **Data Analyst** passionate about transforming 
 
 My journey into data analytics began with a curiosity about how data measure business performance, and support smarter decision-making. As I developed my skills in **SQL, Python, and Power BI**, I discovered that my greatest interest lies in turning complex datasets into clear, actionable insights that help organizations understand their data and improve business outcomes.
 
-Today, I build end-to-end analytics projects that combine data preparation, analysis, and visualization. My work focuses on **data analytics, business intelligence, and executive reporting**, using tools such as **SQL, Python, Power BI, and DAX** to solve real-world business problems.
+Today, I build end-to-end analytics solutions that combine data preparation, analysis, and visualization. My work focuses on **data analytics, business intelligence, and executive reporting**, using tools such as **SQL, Python, Power BI, and DAX** to solve real-world business problems.
 
 This GitHub showcases the projects I've built throughout my learning journey, including **customer segmentation, customer value analysis, financial inclusion analytics, and interactive business intelligence dashboards**. Each project reflects my approach to combining technical skills with business thinking to deliver insights that support data-driven decisions.
 
