@@ -49,6 +49,21 @@ Developed an interactive Power BI dashboard using SQL, Python, and DAX that comb
 🔗[View Repository](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis) | 📊  [View Dashboard](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis/blob/main/PowerBI/RFM%20analysis.pbix)
 
 
+### Mobile Money Financial Inclusion Analytics
+
+**Business Problem:**  
+Understanding how mobile money is transforming financial inclusion requires more than tracking account ownership. Policymakers and financial institutions need to understand how Kenyans save, borrow, and receive wages across mobile money, traditional banking, and informal financial systems.
+
+**BI Solution:**  
+Developed an end-to-end analytics solution using Python and Power BI to analyze Kenya's financial inclusion trends (2021–2024) using the World Bank Global Findex Database. Applied **set theory** to remove overlapping populations and create mutually exclusive financial categories, enabling more accurate analysis of savings, borrowing, and wage payment behaviors.
+
+**Business Insights:**  
+- Revealed that mobile money has become Kenya's preferred platform for saving, formal borrowing, and receiving wages.
+- Identified a shift away from traditional bank-only services toward digital financial channels.
+- Demonstrated how mobile money has evolved from a payment tool into the foundation of Kenya's digital financial ecosystem.
+
+🔗 **View Repository** | 📊 **View Dashboard**
+
 
 
 
