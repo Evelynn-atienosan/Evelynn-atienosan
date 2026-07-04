@@ -49,7 +49,7 @@ Developed an interactive Power BI dashboard using SQL, Python, and DAX that comb
 🔗[View Repository](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis) | 📊  [View Dashboard](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis/blob/main/PowerBI/RFM%20analysis.pbix)
 
 
-### Mobile Money Financial Inclusion Analytics
+### MOBILE-MONEY-IN-KENYA
 
 **Business Problem:**  
 Understanding how mobile money is transforming financial inclusion requires more than tracking account ownership. Policymakers and financial institutions need to understand how Kenyans save, borrow, and receive wages across mobile money, traditional banking, and informal financial systems.
