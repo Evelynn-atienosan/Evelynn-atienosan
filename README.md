@@ -31,6 +31,7 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 
 - 📧 **Email:** *evelynn.atienosan@gmail.com*
 
+---
 ## Featured Projects
 
 ### Customer-Segmentation-Customer-Value-Analysis
