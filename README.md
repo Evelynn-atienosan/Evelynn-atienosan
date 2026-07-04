@@ -42,5 +42,10 @@ Developed an interactive Power BI dashboard using SQL, Python, and DAX that comb
 
 🔗[View Repository](#Customer-Segmentation-Customer-Value-Analysis) | 📊  [View Dashboard](#Dashboard-Preview)
 
+## Contact
 
-*"Transforming data into actionable insights, one project at a time."*
+- 📧 **Email:** *evelynn.atienosan@gmail.com*
+
+
+
+
