@@ -27,7 +27,7 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 
 ## Featured Projects
 
-### RF Customer Segmentation & Customer Value Analysis
+### Customer-Segmentation-Customer-Value-Analysis
 
 **Business Problem:**  
 E-commerce businesses often struggle to distinguish between highly engaged customers and those generating the greatest financial value, making it difficult to prioritize retention and marketing efforts.
