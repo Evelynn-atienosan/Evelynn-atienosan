@@ -62,7 +62,7 @@ Developed an end-to-end analytics solution using Python and Power BI to analyze 
 - Identified a shift away from traditional bank-only services toward digital financial channels.
 - Demonstrated how mobile money has evolved from a payment tool into the foundation of Kenya's digital financial ecosystem.
 
-🔗 [View Repository](ps://github.com/Evelynn-atienosan/MOBILE-MONEY-IN-KENYA)| 📊 **View Dashboard**
+🔗 [View Repository](https://github.com/Evelynn-atienosan/MOBILE-MONEY-IN-KENYA)| 📊 **View Dashboard**
 
 
 
