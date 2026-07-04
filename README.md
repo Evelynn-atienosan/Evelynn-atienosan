@@ -17,7 +17,7 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 
 - **Excel**
 - **SQL**
-- **Python (Pandas & NumPy)**
+- **Python (Pandas,NumPy,Matplotlib,Seaborn)**
 - **Power BI**
 - **DAX**
 - **Data Cleaning & Transformation**
