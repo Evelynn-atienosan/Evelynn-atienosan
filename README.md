@@ -31,7 +31,6 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 
 - 📧 **Email:** *evelynn.atienosan@gmail.com*
 
-- 
 ## Featured Projects
 
 ### Customer-Segmentation-Customer-Value-Analysis
@@ -47,7 +46,7 @@ Developed an interactive Power BI dashboard using SQL, Python, and DAX that comb
 - Low Value customers account for **49.5%** of customers while contributing only **19%** of revenue.
 - Enabled stakeholders to monitor customer engagement, revenue concentration, and customer value progression over time.
 
-🔗[View Repository](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis) | 📊  [View Dashboard](#Dashboard-Preview)
+🔗[View Repository](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis) | 📊  [View Dashboard](https://github.com/Evelynn-atienosan/Customer-Segmentation-Customer-Value-Analysis/blob/main/PowerBI/RFM%20analysis.pbix)
 
 
 
