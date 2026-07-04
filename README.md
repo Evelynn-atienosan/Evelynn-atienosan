@@ -40,7 +40,7 @@ Developed an interactive Power BI dashboard using SQL, Python, and DAX that comb
 - Low Value customers account for **49.5%** of customers while contributing only **19%** of revenue.
 - Enabled stakeholders to monitor customer engagement, revenue concentration, and customer value progression over time.
 
-🔗 **View Repository**- [Business Problem](#business-problem) | 📊 **View Dashboard**
+🔗[View Repository](#Customer-Segmentation-Customer-Value-Analysis) | 📊  [View Dashboard](#Dashboard-Preview)
 
 
 *"Transforming data into actionable insights, one project at a time."*
