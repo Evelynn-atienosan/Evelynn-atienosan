@@ -15,6 +15,7 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 
 ##  Technical Skills
 
+- **Excel**
 - **SQL**
 - **Python (Pandas & NumPy)**
 - **Power BI**
