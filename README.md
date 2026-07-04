@@ -23,15 +23,24 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 - **Data Cleaning & Transformation**
 - **Data Visualization**
 - **Business Intelligence**
-- **Customer Analytics**
 - **Data Storytelling**
 
----
+## Featured Projects
 
-## Let's Connect
+### RF Customer Segmentation & Customer Value Analysis
 
-- 💼 **LinkedIn:** *(Add your LinkedIn profile URL)*
-- 📧 **Email:** *(Add your professional email)*
-- 📄 **Resume:** *(Add a resume link if available)*
+**Business Problem:**  
+E-commerce businesses often struggle to distinguish between highly engaged customers and those generating the greatest financial value, making it difficult to prioritize retention and marketing efforts.
+
+**BI Solution:**  
+Developed an interactive Power BI dashboard using SQL, Python, and DAX that combines RF Customer Segmentation with Customer Value Analysis. Built monthly customer snapshots and Executive DAX measures to ensure historically accurate reporting using cumulative customer metrics.
+
+**Business Insights:**  
+- High Value customers represent **19.7%** of customers but contribute **53%** of cumulative revenue.
+- Low Value customers account for **49.5%** of customers while contributing only **19%** of revenue.
+- Enabled stakeholders to monitor customer engagement, revenue concentration, and customer value progression over time.
+
+🔗 **View Repository** | 📊 **View Dashboard**
+
 
 *"Transforming data into actionable insights, one project at a time."*
