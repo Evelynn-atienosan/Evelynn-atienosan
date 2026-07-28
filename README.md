@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Hi, I'm **Evelynn Atieno** — a **Data Analyst** passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
+Hi, I'm **Evelynn Atieno**, a **Data Analyst** passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
 
 My journey into data analytics began with a curiosity about how data measure business performance, and support smarter decision-making. As I developed my skills in **SQL, Python, and Power BI**, I discovered that my greatest interest lies in turning complex datasets into clear, actionable insights that help organizations understand their data and improve business outcomes.
 
