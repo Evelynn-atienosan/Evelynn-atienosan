@@ -14,16 +14,17 @@ I'm continuously expanding my knowledge in data analytics and business intellige
 ---
 
 ##  Technical Skills
-
-- **Excel**
-- **SQL**
+- **Data Cleaning & Transformation**
+-  **Data Storytelling**
+- **Spreadsheet Management and Automation**
+- **AI Assisted Data Analysis**
+- **SQL Querying**
 - **Python (Pandas,NumPy,Matplotlib,Seaborn)**
 - **Power BI**
 - **DAX**
-- **Data Cleaning & Transformation**
-- **Data Visualization**
+- **Data Visualization and Dashboard Development**
 - **Business Intelligence**
-- **Data Storytelling**
+
 
 ---
 
